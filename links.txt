@@ -1,0 +1,1 @@
+https://medium.com/@tutorialcreation81/apache-spark-kafka-and-airflow-for-etl-pipelines-2d91e641fbdf
